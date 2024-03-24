@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Snowy-Fernandes
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning application development in flutter
-- 📫 How to reach me -snowyfernandes19@gmail.com
+# Welcome to My GitHub Profile! 👋
+
+## About Me
+I am Snowy Fernandes, a passionate Computer Science Student with a keen interest in Coding and developing new projects. I love exploring new technologies, collaborating on interesting projects, and contributing to open-source communities.
+
+## Skills
+- Programming Languages: C,C++,Java,Python,Flutter
+- Technologies: HTML5, CSS3,JavaScript (React, Node.js, Angular),Python (Django, Flask),Java (Spring Boot)
+- Tools: Git/GitHub,Google Cloud Platform (GCP),Visual Studio Code,IntelliJ IDEA,Eclipse,Canva,Flutter(UI/UX),Blenders
+- Other Skills: Intrested in Graphics Designing 
+
+## Contact Me
+- LinkedIn: https://www.linkedin.com/in/snowy-fernandes-b59195244/
+- Email: Snowyfernandes19@gmail.com
 
 
-<!---
-Snowy-Fernandes/Snowy-Fernandes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Feel free to reach out to me for collaboration opportunities, project ideas, or just to say hello! 😊
