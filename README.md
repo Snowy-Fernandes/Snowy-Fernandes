@@ -12,6 +12,6 @@ I am Snowy Fernandes, a passionate Computer Science Student with a keen interest
 ## Contact Me
 - LinkedIn: https://www.linkedin.com/in/snowy-fernandes-b59195244/
 - Email: Snowyfernandes19@gmail.com
-- Portfolio: https://snowyfernandes.netlify.app/#about
+- Portfolio: https://snowyfernandes.netlify.app
 
 Feel free to reach out to me for collaboration opportunities, project ideas, or just to say hello! 😊
